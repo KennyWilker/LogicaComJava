@@ -1,2 +1,2 @@
 # LogicaComJava
-Resolução de problemas utilizando a Linguagem Java.
+Neste repositório pude ter a oportunidade de resolver alguns problemas utilizando algoritmos com a Linguagem Java.
